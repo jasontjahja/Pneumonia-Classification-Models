@@ -4,7 +4,7 @@
 The primary objective of this data mining project is to develop a robust and accurate model for classifying lung X-ray images into two categories: normal and pneumonia-infected. Leveraging Convolutional Neural Networks (CNN) and logistic regression models, this project aims to assist medical professionals in the timely diagnosis of pneumonia based on X-ray images, potentially reducing the workload and improving the efficiency of healthcare providers.
 
 ## Dataset
-We used a publicly available dataset containing a large collection of chest X-ray images. The dataset is divided into two classes:
+We used a publicly available dataset containing a large collection of chest X-ray images from kaggle https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia. The dataset is divided into two classes:
 - Normal: Lung X-ray images of individuals with no signs of pneumonia.
 - Pneumonia: Lung X-ray images of individuals diagnosed with pneumonia.
 
