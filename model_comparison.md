@@ -56,3 +56,16 @@ Both models performed well, but there are key differences to consider:
 The choice between these models may depend on the specific requirements of the application. The logistic regression model might be preferred when interpretability is essential, while the CNN model excelled in capturing complex patterns in the image data. Further considerations, such as computational resources and data size, should also influence the choice of model.
 
 Ultimately, both models demonstrate strong potential for the classification task, and additional tuning or ensemble methods could potentially improve their performance further.
+
+##Sugestion for Furher research
+- **Incorporate Additional Data**: 
+  - Leveraging other types of medical data can provide a more comprehensive understanding of the cases. Including data such as patient symptoms, medical history, and other relevant scans can enhance the model's diagnostic ability.
+  
+- **Balanced Dataset**:
+  - It's imperative to ensure a balanced dataset, where the number of images representing healthy and pneumonia-infected lungs are equal. This will prevent the model from being biased towards the class with a higher number of samples.
+  
+- **Anomaly Detection**:
+  - Medical images can sometimes present rare or unseen anomalies. Incorporating anomaly detection techniques will aid in identifying such unique cases and ensure that they are not misclassified.
+  
+- **Incorporate Expert Feedback**:
+  - Collaboration with medical experts, especially radiologists, can prove invaluable. Their insights and validation of the model's predictions can steer the model's evolution in a direction that is both technically sound and clinically relevant.
