@@ -1,7 +1,29 @@
 # Lung X-ray Image Classification Project
 
 ## Objective
-The primary objective of this data mining project is to develop a robust and accurate model for classifying lung X-ray images into two categories: normal and pneumonia-infected. Leveraging Convolutional Neural Networks (CNN) and logistic regression models, this project aims to assist medical professionals in the timely diagnosis of pneumonia based on X-ray images, potentially reducing the workload and improving the efficiency of healthcare providers.
+In the aftermath of the COVID-19 pandemic, there has been a notable increase in pneumonia cases globally. This surge is further exacerbated in regions like Indonesia, which has recently experienced heightened pollution levels, leading to an increased risk of pneumonia and other Acute Respiratory Infections. In light of these challenges, our research project emerges with a specific objective.
+
+To harness advanced technological approaches, specifically Convolutional Neural Networks (CNN) and logistic regression models, for the classification of lung X-ray images. The model is envisioned to distinguish between 'normal' and 'pneumonia-infected' categorizations.
+
+This initiative holds profound implications:
+
+1. **Prompt Diagnosis**: In an era where swift medical responses are paramount, our model endeavors to provide immediate insights based on X-ray examinations.
+  
+2. **Alleviating Medical Workload**: The healthcare sector, already under significant strain, can benefit from automated initial diagnoses, allowing professionals to concentrate on complex cases and expedite treatments.
+  
+3. **Optimized Healthcare Operations**: Efficient diagnosis can lead to streamlined operations, ensuring that a larger number of patients receive timely medical attention.
+  
+4. **Economic Efficiency**: Accurate and immediate diagnoses could potentially reduce the need for redundant tests, resulting in cost savings for both medical institutions and patients.
+
+In essence, our research merges technological innovation with healthcare demands, aspiring to offer tangible solutions in regions grappling with heightened medical challenges.
+
+## 🌐 Sources
+1. [mdpi.com - Enhancing an Imbalanced Lung Disease X-ray Image ...](https://www.mdpi.com/2076-3417/13/14/8227)
+2. [mdpi.com - An Improved Heteroscedastic Modeling Method for Chest ...](https://www.mdpi.com/1999-4893/16/5/239)
+3. [ncbi.nlm.nih.gov - Based on improved deep convolutional neural network ...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8568342/)
+4. [ncbi.nlm.nih.gov - COVID-19 Classification on Chest X-ray Images Using ...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9915705/)
+5. [towardsdatascience.com - Medical X-ray ⚕️ Image Classification using Convolutional ...](https://towardsdatascience.com/medical-x-ray-%EF%B8%8F-image-classification-using-convolutional-neural-network-9a6d33b1c2a)
+6. [researchgate.net - chest x-rays image classification in medical image analysis](https://www.researchgate.net/publication/330105218_CHEST_X-RAYS_IMAGE_CLASSIFICATION_IN_MEDICAL_IMAGE_ANALYSIS)
 
 ## Dataset
 We used a publicly available dataset containing a large collection of chest X-ray images from kaggle https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia. The dataset is divided into two classes:
