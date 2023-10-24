@@ -57,7 +57,7 @@ The choice between these models may depend on the specific requirements of the a
 
 Ultimately, both models demonstrate strong potential for the classification task, and additional tuning or ensemble methods could potentially improve their performance further.
 
-##Sugestion for Furher research
+## Suggestion for Further Research
 - **Incorporate Additional Data**: 
   - Leveraging other types of medical data can provide a more comprehensive understanding of the cases. Including data such as patient symptoms, medical history, and other relevant scans can enhance the model's diagnostic ability.
   
