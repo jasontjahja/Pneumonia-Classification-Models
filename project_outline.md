@@ -17,14 +17,6 @@ This initiative holds profound implications:
 
 In essence, our research merges technological innovation with healthcare demands, aspiring to offer tangible solutions in regions grappling with heightened medical challenges.
 
-## 🌐 Sources
-1. [mdpi.com - Enhancing an Imbalanced Lung Disease X-ray Image ...](https://www.mdpi.com/2076-3417/13/14/8227)
-2. [mdpi.com - An Improved Heteroscedastic Modeling Method for Chest ...](https://www.mdpi.com/1999-4893/16/5/239)
-3. [ncbi.nlm.nih.gov - Based on improved deep convolutional neural network ...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8568342/)
-4. [ncbi.nlm.nih.gov - COVID-19 Classification on Chest X-ray Images Using ...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9915705/)
-5. [towardsdatascience.com - Medical X-ray ⚕️ Image Classification using Convolutional ...](https://towardsdatascience.com/medical-x-ray-%EF%B8%8F-image-classification-using-convolutional-neural-network-9a6d33b1c2a)
-6. [researchgate.net - chest x-rays image classification in medical image analysis](https://www.researchgate.net/publication/330105218_CHEST_X-RAYS_IMAGE_CLASSIFICATION_IN_MEDICAL_IMAGE_ANALYSIS)
-
 ## Dataset
 We used a publicly available dataset containing a large collection of chest X-ray images from kaggle https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia. The dataset is divided into two classes:
 - Normal: Lung X-ray images of individuals with no signs of pneumonia.
