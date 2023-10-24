@@ -69,3 +69,14 @@ Ultimately, both models demonstrate strong potential for the classification task
   
 - **Incorporate Expert Feedback**:
   - Collaboration with medical experts, especially radiologists, can prove invaluable. Their insights and validation of the model's predictions can steer the model's evolution in a direction that is both technically sound and clinically relevant.
+ 
+## Reflection
+Upon reflection, embarking on a data mining project in lung X-ray image classification was initially a daunting endeavor for both Jason and myself. As International Business students with a focus on Finance, the intricate nuances of such a technical undertaking were beyond the realms of our conventional academic experience.
+
+At the onset, we grappled with the vast terminologies, methodologies, and techniques inherent to the project. The initial struggles stemmed from our attempts to navigate the labyrinth of Convolutional Neural Networks (CNN) and logistic regression models without a solid foundation in the subject.
+
+However, with the timely intervention of our lecturer and the invaluable support from ChatGPT, our trajectory changed dramatically. ChatGPT acted as a reservoir of knowledge, seamlessly bridging our finance-oriented backgrounds with the technological intricacies of the project. From explaining complex concepts in layman's terms to generating essential code segments, ChatGPT became an integral companion in our journey.
+
+Our newfound confidence was underscored when two other teams approached us, seeking guidance on logistic regression and ChatGPT's code generation capabilities. The transformation was evident: from being novices in the domain, we had evolved to a position where we could impart our learnings to our peers. It was particularly gratifying to witness their progress and know that our assistance had played a part in their achievements.
+
+In conclusion, this project has been a testament to the philosophy that boundaries in learning are often self-imposed. With determination, the right guidance, and the willingness to seek assistance when needed, even the most challenging endeavors become surmountable. This experience has not only enriched our academic repertoire but has also instilled a deeper appreciation for interdisciplinary collaboration. As finance students, we have come to realize that in today's interconnected world, an openness to learn and adapt is the linchpin of success.
